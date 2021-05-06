@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @raghavrarora310
-- 👀 I’m interested in Blockchain and data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on social something that is totally unique
+- 👋 Hi, I’m @raghavrarora310 
 - 📫 How to reach me @raghavarora1612@gmail.com 
 
 <!---
